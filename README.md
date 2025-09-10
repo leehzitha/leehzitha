@@ -1,7 +1,5 @@
 [![leehzitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehzitha&bg_color=0,1a1a1a,2b2b2b&text_color=7fffd4&title_color=7fffd4&icon_color=7fffd4&hide_border=true)](https://github.com/leehzitha/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehzitha&layout=compact&hide_border=true&bg_color=0,1a1a1a,2b2b2b&text_color=7fffd4&title_color=7fffd4&icon_color=7fffd4)](https://github.com/leehzitha/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leehzitha&show_icons=true&hide_border=false&count_private=true&theme=radical)](https://github.com/leehzitha/github-readme-stats)
-
-
+![Top Language](https://img.shields.io/github/languages/top/leehzitha?color=7fffd4&labelColor=1a1a1a)
 
 
