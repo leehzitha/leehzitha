@@ -8,7 +8,7 @@
   <a href="https://github.com/leehzitha">GitHub</a>
 
   <h3>About</h3>
-  Digital Solutions Apprentice - Bosch | TADS - UFPR
+  Digital Solutions Apprentice - Bosch | Systems Analysis and Development - UFPR
   <br>
   <hr>
 
