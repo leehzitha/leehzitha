@@ -5,10 +5,7 @@
   <div align="left">
     <br> 
     <h3>About Me</h3>
-    <div style="background-color:#161b22; padding:10px; border-radius:12px; width:70%; text-align: left">
-        <pre style="color:#8b949e; align='left'">
-          Digital Solutions Apprentice - Bosch | Systems Analysis and Development Student - UFPR
-        </pre>
+    <p>Digital Solutions Apprentice - Bosch | Systems Analysis and Development Student - UFPR</p>
     </div>
     <br><br><br>
     <hr>
