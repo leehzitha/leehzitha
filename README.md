@@ -4,7 +4,7 @@
   <div align="left">
     <br> 
     <h3>About Me</h3>
-    <p>Process Automation & Cloud Computing - Bosch | Systems Analysis and Development Student - UFPR</p>
+    <p>Embedded & Cloud Software Developer for Vehicle Connected Services @ Bosch | Systems Analysis and Development Student - UFPR</p>
   </div>
     <br><br><br>
     <img src="https://img.shields.io/badge/Technology_moves_the_world.-222?style=for-the-badge" />
